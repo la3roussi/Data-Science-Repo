@@ -1,4 +1,4 @@
-Data-Science-repo
+Data-Science-Coursera
 =================
 
 The Data Scientist's Toolbox Coursera Course
